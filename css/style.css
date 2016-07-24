@@ -1,0 +1,147 @@
+body {
+
+	margin: 0;
+	padding: 0;
+	font-family: 'Abel', sans-serif;
+	color: #5B5B5B;
+}
+.firtContenir {
+
+	background: url("../img/img01.jpg") repeat;
+	height: 600px;
+}
+.contenir {
+
+	width: 1000px;
+	margin: 0 auto;
+	height: 120px;
+}
+.contIMG {
+
+	margin: 0px auto;
+	width: 1000px;
+}
+.contIMG div {
+	margin-top: 24px;
+}
+.imgheader {
+	background-image: url("../img/img02.jpg");
+}
+
+.menu {
+	float: right;
+	list-style-type: none;
+	width: 440px;
+	margin-top: 23px;
+}
+.menu li {
+
+	float: left;
+	border-radius: 5px;
+	font-size: 0.9em;
+	padding: 3% 1%;
+}
+.menu .homePage {
+	background: #132434;
+}
+.homePage a {
+	color: white !important;
+}
+.menu li a {
+
+	color: black;
+	text-decoration: none;
+	font-size: 1.1em;
+	padding: 1%;
+}
+header h3 {
+
+	float: left;
+	font-size: 1.8em;
+	margin: 3%;
+}
+
+.contenierImg {
+	margin: 0 auto;
+	width: 1000px;
+}
+.centerImgs {
+	float: left;
+	width: 21%;
+	margin-top: 7%;
+	margin-right: 10%;
+}
+.btu a {
+
+	text-decoration: none;
+	background-color: #132434;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+}
+.centerImgs p {
+	line-height: 30px;
+	width: 300px;
+}
+.centerImgs h2 {
+	width: 242px;
+}
+.welcome {
+	float: left;
+	width: 71%;
+	line-height: 30px;
+}
+.headlines {
+	font-size: 2.1em;
+}
+.categories {
+	display: inline-block;
+	line-height: 40px;
+}
+.categories li a {
+	color: #5B5B5B;
+	padding: 0px 0px 0px 20px;
+	background: url("../img/img04.jpg") no-repeat left 50%;
+}
+.categories ul {
+	list-style-type: none;
+}
+.btu {
+	margin-top: 4%;
+}
+.btu1 {
+	display: inline-block;
+}
+.clear-fix {
+	overflow: hidden;
+	clear: both;
+}
+.warpFooter {
+	background: #F4F3EE url("../img/img05.jpg") repeat;
+	height: 300px;
+	position: absolute;
+	left: 0;
+	right: 0;
+}
+.footerUl {
+	margin-top: 1%;
+	float: left;
+	margin-right: 3%;
+	margin-left: 5%;
+}
+.footerUl ul {
+	list-style-type: none;
+	float: left;
+}
+.footerUl li a {
+	color: #93B2A0;
+	text-decoration: none;
+}
+.footerUl li {
+	line-height: 20px;
+}
+@media screen and (max-width: 1327px) {
+ 
+.footerUl {
+font-size: 0.7em;
+ }

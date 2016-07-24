@@ -1,0 +1,18 @@
+body {
+	overflow: hidden;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+
+
+.headlines {
+    font-size:1.3em !important;
+}
+.welcome p{
+	    font-size: 0.7em;
+}
